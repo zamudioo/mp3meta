@@ -1,4 +1,4 @@
-This code is used to add metadata to mp3 files (such as song name, album, who sings it) based on the filename they have, this may work for downloads via youtube that dont have the metadata on in.
+This code is used to add metadata to mp3 files (such as song name, album, who sings it) based on the filename they have, this may work for downloads via youtube that dont have the metadata on in.                  
 There is a small chance that the program will make a mistake, since there are several songs with the same name.
 you just have to install mutagen and musicbrainzngs via python with this command:
 pip command install mutagen musicbrainzngs
