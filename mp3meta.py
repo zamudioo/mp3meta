@@ -45,5 +45,5 @@ def process_mp3_files(folder_path):
                 print(f"No details found for {song_title}")
 
 # you will have to put ur mp3 files path on here
-folder_path = r"path"
+folder_path = r"EDIT HERE"
 process_mp3_files(folder_path)
